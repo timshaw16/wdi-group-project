@@ -1,10 +1,10 @@
-#RUNCH - The path towards a healthier lunch-time.
+###RUNCH - The path towards a healthier lunch-time.
 Created by Lourenco Sequeira, Tim Shaw, Alex Yeates, and Sophie Downey.
 
 ![screen shot 2017-06-28 at 13 56 29](https://user-images.githubusercontent.com/25135796/27638468-403aee82-5c0b-11e7-8084-a715860505e8.png)
 
 
-##What is RUNCH?
+###What is RUNCH?
 RUNCH is an app targeted at getting people, who have little spare time, active. It enables them to use their lunch-time wisely - they can go for a quick run and meet other like-minded professionals. It is an opportunity to not only get fit, but also to network, and feel refreshed for the second half of the day.
 
 This app was created for our Group Project on the Web Development Immersive course at General Assembly. It was built using:
@@ -17,7 +17,7 @@ This app was created for our Group Project on the Web Development Immersive cour
 A hosted version of RUNCH can be found [here] (54]
 https://runchtime.herokuapp.com) The code can be viewed [here] (https://github.com/laseq/wdi-group-project)
 
-##Why RUNCH?
+###Why RUNCH?
 Fed up of sitting down all day?
 
 The idea for RUNCH came from an Evening Standard article which profiled the rise of people choosing to use their lunch-break for exercise. The benefits of getting their exercise done in the middle of the day include:
